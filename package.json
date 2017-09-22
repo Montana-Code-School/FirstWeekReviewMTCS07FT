@@ -1,0 +1,25 @@
+{
+  "name": "firstweekreviewmtcs07",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Montana-Code-School/FirstWeekReviewMTCS07.git"
+  },
+  "author": "Kyle&Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Montana-Code-School/FirstWeekReviewMTCS07/issues"
+  },
+  "homepage": "https://github.com/Montana-Code-School/FirstWeekReviewMTCS07#readme"
+}
