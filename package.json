@@ -1,0 +1,19 @@
+{
+  "name": "firstweekreviewmtcs07",
+  "version": "1.0.0",
+  "description": "Some exercises solidifying this week's work",
+  "main": "onlyEvenNumbers.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Montana-Code-School/FirstWeekReviewMTCS07.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Montana-Code-School/FirstWeekReviewMTCS07/issues"
+  },
+  "homepage": "https://github.com/Montana-Code-School/FirstWeekReviewMTCS07#readme"
+}
